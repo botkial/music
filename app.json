@@ -27,7 +27,7 @@
       "GPT_NAME": {
         "description": "اسم امر الذكاء الاصطناعي.",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_NAME": {
         "description": "اسم البوت بالعربي.",
